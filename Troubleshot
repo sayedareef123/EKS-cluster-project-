@@ -1,0 +1,11 @@
+sayed@AREEF MINGW64 ~/OneDrive/Desktop/K8s project/kubernetes-cluster-files (master)
+# git init
+# git add .
+# git commit -m "First commit"
+# git branch -m main 
+# git remote -v
+# git remote add origin https://github.com/sayedareef123/EKS-cluster-project-.git
+# git fetch origin
+# git merge origin/main
+# git rebase origin/main
+# git push -f origin main
